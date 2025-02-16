@@ -5,4 +5,4 @@ function daysOfAYear(year){
 	}else{
 		return 365;
 	}
-}console.log((daysOfAYear(2022));
+}daysOfAYear(2022);
